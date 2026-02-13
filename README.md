@@ -1,2 +1,29 @@
 # 2026-Github-Practice
-2026 Cohort, Repository for Collaboration Github Guiding Activity
+Collaboration Github Hands-On Template
+
+## 🧐 과제 안내
+이 이슈는 5기 아카데미 러너들을 위해 Git, GitHub 연습을 할 수 있도록 만들어졌습니다.
+아래 내용을 잘 읽고 과제를 수행해주세요. 지시사항을 어겼을 때, PR이 반영되지 않을 수 있습니다.
+처음 시도하는 깃허브라면, 어려운 것이 당연합니다. 
+직접 해보면서 빠르게 학습할 수 있도록 도우미 러너와 Tech 멘토들을 리소스로 적극적으로 사용해주세요!
+
+## 📚 과제 내용
+
+
+## 📸 예시 이미지
+
+
+
+### ✅ To-dos
+- [ ] Clone을 이용하여, 내 로컬 디렉토리에 내려받아주세요.
+- [ ] Github로 이동해서 Issue를 생성해주세요.
+- [ ] 작업할 브랜치를 생성해주세요. (#이슈번호-닉네임 ex. #3-Lumi)
+- [ ] 이름과 팀을 입력한 후 commit! (커밋 메세지 컨벤션 : `[Feat] {닉네임} 뷰 제작`)
+- [ ] 프로젝트 내의 Model/LearersViews 파일에 있는 배열에 내가 만든 View를 추가합니다.
+- [ ] 2번째 commit! (커밋 메세지 컨벤션 : `[Feat] 리스트에 {닉네임} 뷰 추가`)
+- [ ] 작업 내용을 Push 후 PR 템플릿에 맞게 PR을 생성해주세요. **_(Develop 브랜치로 PR인지 확인하세요.)_**
+- [ ] 옆에 있는 사람이 PR을 리뷰한 후, 서로 Merge해주세요.
+
+### ⚠️ 유의 사항
+- Naming 및 Commit Convention을 잘 준수해주세요.
+
