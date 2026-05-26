@@ -9,9 +9,9 @@ import SwiftUI
 
 struct PonyView: LearnerView {
     // TODO: 1. 이름, 팀 수정하고 커밋하기
-    var name: String = "포니"
+    var name: String = "포니가 아니라 맥스"
     
-    var team: String = "회초리"
+    var team: String = "회초리가 아니라 펜슬 킷"
     
     var body: some View {
         Text("저의 이름은 \(name)입니다.")
