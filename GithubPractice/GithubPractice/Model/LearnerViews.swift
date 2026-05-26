@@ -14,4 +14,5 @@ let learnerViews: [any LearnerView] = [
     KayaView(),
     seoyeongView(),
     MinView()
+    ClaireView()
 ]
