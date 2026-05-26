@@ -7,7 +7,12 @@
 
 import SwiftUI
 
-struct SaludView: View {
+struct SaludView: LearnerView {
+    
+    var name: String = "Salud"
+    
+    var team: String = "러너팀"
+    
     var body: some View {
         Text("나는 살룻이다.")
 
