@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct Blair_View: View {
+struct BlairView: View {
     var body: some View {
         Text("저는 블레어입니다. 옆에서 유키가 보고있어요.")
     }
 }
 
 #Preview {
-    Blair_View()
+    BlairView()
 }
