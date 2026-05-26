@@ -11,5 +11,6 @@ import SwiftUI
 let learnerViews: [any LearnerView] = [
     LumiView(),
     JudyView(),
-    IrisView()
+    IrisView(),
+    ChloeView() // 내가 만든 view 추가
 ]
