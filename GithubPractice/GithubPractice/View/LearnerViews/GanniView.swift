@@ -1,17 +1,16 @@
 //
-//  LumiView.swift
+//  GanniView.swift
 //  GithubPractice
 //
-//  Created by 정영진 on 5/22/25.
+//  Created by 김가은 on 5/26/26.
 //
-
 import SwiftUI
 
-struct JudyView: LearnerView {
+struct GanniView: LearnerView {
     // TODO: 1. 이름, 팀 수정하고 커밋하기
-    var name: String = "Judy"
+    var name: String = "Ganni"
     
-    var team: String = "멘토팀"
+    var team: String = "뗔ㅋㅋ"
     
     var body: some View {
         Text("저의 이름은 \(name)입니다.")
@@ -22,5 +21,5 @@ struct JudyView: LearnerView {
 }
 
 #Preview {
-    JudyView()
+    GanniView()
 }
