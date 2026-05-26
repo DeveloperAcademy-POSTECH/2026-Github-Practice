@@ -11,5 +11,6 @@ import Foundation
 let learnerViews: [any LearnerView] = [
     LumiView(),
     JudyView(),
-    KayaView()
+    KayaView(),
+    seoyeongView()
 ]
