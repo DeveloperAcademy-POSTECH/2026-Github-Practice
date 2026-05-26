@@ -7,7 +7,11 @@
 
 import SwiftUI
 
-struct WonView: View {
+struct WonView: LearnerView {
+    var name: String = "Won"
+    
+    var team: String = "러너팀"
+    
     var body: some View {
         Text("나는 원이다.")
     }
