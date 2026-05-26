@@ -7,9 +7,13 @@
 
 import SwiftUI
 
-struct SelinaView: View {
+struct SelinaView: LearnerView {
+    let name: String = "Selina"
+    
+    let team: String = "iOS"
+    
     var body: some View {
-        Text("저는 Selina 입니다")
+        Text("저는 \(name) 입니다")
     }
 }
 
