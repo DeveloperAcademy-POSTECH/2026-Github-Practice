@@ -10,9 +10,22 @@
 		CC2C66602DDEC45100380864 /* GithubPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		9AE68E942FC58CEF0020B40E /* Exceptions for "GithubPractice" folder in "GithubPractice" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				View/LearnerViews/Untitled.swift,
+			);
+			target = CC2C665F2DDEC45100380864 /* GithubPractice */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		CC2C66622DDEC45100380864 /* GithubPractice */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				9AE68E942FC58CEF0020B40E /* Exceptions for "GithubPractice" folder in "GithubPractice" target */,
+			);
 			path = GithubPractice;
 			sourceTree = "<group>";
 		};
