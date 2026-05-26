@@ -10,4 +10,8 @@ import SwiftUI
 protocol LearnerView: View {
     var name: String { get }
     var team: String { get }
+    }
+
 }
+
+
