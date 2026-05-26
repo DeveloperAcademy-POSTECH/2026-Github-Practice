@@ -20,7 +20,7 @@ struct nooyView: LearnerView {
             .font(.subheadline)
             .bold()
             .padding()
-            .background(Color.yellow)
+            .background(Color.orange)
     }
     
 }
