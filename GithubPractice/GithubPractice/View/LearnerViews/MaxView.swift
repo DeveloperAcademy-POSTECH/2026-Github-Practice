@@ -23,5 +23,5 @@ struct MaxView: LearnerView {
 }
 
 #Preview {
-    LumiView()
+    MaxView()
 }
