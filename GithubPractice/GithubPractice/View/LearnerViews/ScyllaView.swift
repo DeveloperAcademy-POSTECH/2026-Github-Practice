@@ -7,7 +7,10 @@
 
 import SwiftUI
 
-struct ScyllaView: View {
+struct ScyllaView: LearnerView {
+    var name: String = "Scylla"
+    var team: String = "48"
+    
     var body: some View {
         Text("Scylla의 View")
     }
