@@ -8,9 +8,9 @@
 import SwiftUI
 
 struct IchiView: LearnerView {
-    var name: Stirng "ichi"
+    var name: String = "ichi"
     
-    var team: String "10"
+    var team: String = "10"
     
     var body: some View {
         
