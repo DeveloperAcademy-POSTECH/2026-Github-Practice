@@ -1,7 +1,4 @@
-# Github-Practice
-Collaboration Github Hands-On Template
 
-## 🧐 과제 안내
 이 이슈는 5기 아카데미 러너들을 위해 Git, GitHub 연습을 할 수 있도록 만들어졌습니다.
 아래 내용을 잘 읽고 과제를 수행해주세요. 지시사항을 어겼을 때, PR이 반영되지 않을 수 있습니다.
 처음 시도하는 깃허브라면, 어려운 것이 당연합니다. 
