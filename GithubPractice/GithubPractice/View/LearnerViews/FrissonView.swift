@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct FrissonView: View {
+struct FrissonView: LearnerView {
     var name: String = "Frisson"
     
     var team: String = "14"
