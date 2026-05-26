@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct MyongView: View {
+struct MyongView: LearnerView {
     var name: String = "Myong"
     
     var team: String = "뗔"
