@@ -9,7 +9,7 @@ import SwiftUI
 
 struct MooView: LearnerView {
     // TODO: 1. 이름, 팀 수정하고 커밋하기
-    var name: String = "Moo"
+    var name: String = "Moo(무)"
     
     var team: String = "너가해봐ㅋ"
     
