@@ -7,7 +7,10 @@
 
 import SwiftUI
 
-struct CueView: View {
+struct CueView: LearnerView {
+    var name: String = "Cue"
+    var team: String = "14"
+    
     var body: some View {
         Text("나는 유성 채 이다")
     }
