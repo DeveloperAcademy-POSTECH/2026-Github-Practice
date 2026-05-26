@@ -1,5 +1,5 @@
 //
-//  LumiView.swift
+//  JuniView.swift
 //  GithubPractice
 //
 //  Created by 정영진 on 5/22/25.
@@ -7,11 +7,11 @@
 
 import SwiftUI
 
-struct PonyView: LearnerView {
+struct JuniView: LearnerView {
     // TODO: 1. 이름, 팀 수정하고 커밋하기
-    var name: String = "포니"
+    var name: String = "주니"
     
-    var team: String = "회초리"
+    var team: String = "아이작/루미/사야팀"
     
     var body: some View {
         Text("저의 이름은 \(name)입니다.")
@@ -22,5 +22,5 @@ struct PonyView: LearnerView {
 }
 
 #Preview {
-    PonyView()
+    JuniView()
 }
