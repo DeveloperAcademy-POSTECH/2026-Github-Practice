@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct MinView: View {
+struct MinView: LearnerView {
     var name: String = "Min"
     
     var team: String = "Learner"

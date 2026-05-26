@@ -12,5 +12,6 @@ let learnerViews: [any LearnerView] = [
     LumiView(),
     JudyView(),
     KayaView(),
-    seoyeongView()
+    seoyeongView(),
+    MinView()
 ]
