@@ -12,6 +12,7 @@ let learnerViews: [any LearnerView] = [
     KouView(),
     LumiView(),
     JudyView(),
+    QuokkaView()
     DarrenView()
     IchiView(),
     KayaView(),
