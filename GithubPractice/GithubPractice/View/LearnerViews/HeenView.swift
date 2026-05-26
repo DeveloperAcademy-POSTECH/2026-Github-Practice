@@ -1,18 +1,17 @@
 //
-//  Untitled.swift
+//  HeenView.swift
 //  GithubPractice
 //
-//  Created by yunseo on 5/26/26.
+//  Created by sun on 5/26/26.
 //
-
 
 import SwiftUI
 
-struct KouView: LearnerView {
+struct HeenView: LearnerView {
     // TODO: 1. 이름, 팀 수정하고 커밋하기
-    var name: String = "Kou"
+    var name: String = "흰"
     
-    var team: String = "조용한 야망"
+    var team: String = "아이작/루미/사야팀"
     
     var body: some View {
         Text("저의 이름은 \(name)입니다.")
@@ -23,5 +22,5 @@ struct KouView: LearnerView {
 }
 
 #Preview {
-    KouView()
+    JuniView()
 }
