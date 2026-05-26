@@ -11,7 +11,8 @@ import SwiftUI
 let learnerViews: [any LearnerView] = [
     LumiView(),
     JudyView(),
-    DarrenView()
+    SelinaView(),
+    DarrenView(),
     IchiView(),
     KayaView(),
     KamchoView(),
