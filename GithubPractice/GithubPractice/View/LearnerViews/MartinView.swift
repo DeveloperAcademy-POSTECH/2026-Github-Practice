@@ -7,7 +7,9 @@
 
 import SwiftUI
 
-struct MartinView: View {
+struct MartinView: LearnerView {
+    var name: String 
+    
     var body: some View {
         Text("MartinView")
     }
