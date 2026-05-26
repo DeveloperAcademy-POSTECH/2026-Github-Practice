@@ -7,12 +7,19 @@
 
 import SwiftUI
 
-struct DdoechiiView: View {
+struct DdoechiiView: LearnerView {
+    var name: String = "Ddoechii"
+    
+    var team: String = "팀12"
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("저의 이름은 \(name)입니다.")
+            .font(.largeTitle)
+        Text("저의 팀은 \(team) 입니다.")
+            .font(.subheadline)
     }
 }
 
 #Preview {
-    DdoechiiView()
+    DdoechiiView(name: "또치", team: "팀2")
 }
