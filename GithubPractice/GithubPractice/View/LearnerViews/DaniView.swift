@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct DaniView: View {
+struct DaniView: LearnerView {
     // TODO: 1. 이름, 팀 수정하고 커밋하기
     var name: String = "Dani"
     
