@@ -9,9 +9,9 @@ import SwiftUI
 
 struct MulgaeView: LearnerView {
     // TODO: 1. 이름, 팀 수정하고 커밋하기
-    var name: String = "Mulgae"
+    var name: String = "불개"
     
-    var team: String = "조용한 야망"
+    var team: String = "시끄러운 야망"
     
     var body: some View {
         Text("저의 이름은 \(name)입니다.")
