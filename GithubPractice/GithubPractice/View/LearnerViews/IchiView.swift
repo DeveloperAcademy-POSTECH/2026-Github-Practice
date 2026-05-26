@@ -7,8 +7,13 @@
 
 import SwiftUI
 
-struct IchiView: View {
+struct IchiView: LearnerView {
+    var name: Stirng "ichi"
+    
+    var team: String "10"
+    
     var body: some View {
+        
         Text("나는 이치다.")
     }
 }
