@@ -10,7 +10,7 @@ import SwiftUI
 struct SeoyeongView: LearnerView {
     var name: String = "Seoyeong"
     
-    var team: String = "오전팀"
+    var team: String = "Team 2"
     
     var body: some View {
         Text("저의 이름은 \(name)입니다.")
