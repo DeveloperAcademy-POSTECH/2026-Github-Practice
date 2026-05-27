@@ -12,6 +12,6 @@ let learnerViews: [any LearnerView] = [
     LumiView(),
     JudyView(),
     IrisView(),
-    BonganiView()
+    BonganiView(),
     SeoyeongView(),
 ]
