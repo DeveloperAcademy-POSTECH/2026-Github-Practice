@@ -1,5 +1,5 @@
 //
-//  SeoyeongView.swift
+//  seoyeongview.swift
 //  GithubPractice
 //
 //  Created by Seoyeong Shin on 5/26/26.
@@ -7,10 +7,11 @@
 
 import SwiftUI
 
-struct SeoyeongView: LearnerView {
-    var name: String = "Seoyeong"
+struct seoyeongView: LearnerView {
+    // TODO: 1. 이름, 팀 수정하고 커밋하기
+    var name: String = "seoyeong"
     
-    var team: String = "Team 2"
+    var team: String = "Team2"
     
     var body: some View {
         Text("저의 이름은 \(name)입니다.")
@@ -21,5 +22,5 @@ struct SeoyeongView: LearnerView {
 }
 
 #Preview {
-    SeoyeongView()
+    seoyeongView()
 }
